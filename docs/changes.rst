@@ -1,6 +1,11 @@
 Version History
 ***************
 
+Version 3.0.0
+==============
+
+* Novel-T takeover
+* Support Django 4
 
 .. _version_2_4_0:
 
